@@ -1,0 +1,12 @@
+2023-11-15 11:49:22 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSONA" not found (this database is empty); SQL statement:
+insert into persona (apellido,edad,nombre,id) values (?,?,?,default) [42104-214]
+2023-11-15 11:49:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PERSONA" not found (this database is empty); SQL statement:
+insert into persona (apellido,edad,nombre,id) values (?,?,?,default) [42104-214]
+2023-11-15 11:51:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
+2023-11-15 11:52:08 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLNonTransientException: El objeto ya está cerrado
+The object is already closed [90007-214]
